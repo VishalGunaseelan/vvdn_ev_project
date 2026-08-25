@@ -8,5 +8,9 @@ SQL, Git, and data engineering concepts.
 Analyze EV battery data using Python and identify
 potential battery health issues.
 
+## Skills
 
-HI
+- Python
+- SQL
+- Git
+- Data Engineering
