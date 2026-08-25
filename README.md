@@ -1,20 +1,4 @@
-# VVDN EV Data Engineering Project
+## EV Analysis
 
-This project is created to practice Python,
-SQL, Git, and data engineering concepts.
-
-## Objective
-
-Analyze EV battery data using Python and identify
-potential battery health issues.
-
-## Skills
-
-- Python
-- SQL
-- Git
-- Data Engineering
-
-New Line
-
-New Line two
+This module will analyze EV battery parameters such as
+temperature, voltage, current, SOC, and SOH.
